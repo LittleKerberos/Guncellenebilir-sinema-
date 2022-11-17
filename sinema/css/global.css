@@ -1,0 +1,20 @@
+.bg-pink{
+	background: #FF07BF;
+}
+.navbar-toggler{
+	background: black;
+}
+.bg-button{
+	background:#FF07BF; 
+	border: 1px solid white;
+	border-radius: 5px;
+	color: white;
+	text-align: center;
+	margin-right: 5px;
+}
+.navbar-width{
+	width: 100%;
+}
+.text-color{
+	color: <?php echo $ayarcek['ayar_renk2']; ?>
+}
